@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hw23-Redux/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hw23-Redux/static/js/main.a24617cd.chunk.js",
+    "main.js.map": "/hw23-Redux/static/js/main.a24617cd.chunk.js.map",
+    "runtime-main.js": "/hw23-Redux/static/js/runtime-main.0ce78167.js",
+    "runtime-main.js.map": "/hw23-Redux/static/js/runtime-main.0ce78167.js.map",
+    "static/js/2.97f19f39.chunk.js": "/hw23-Redux/static/js/2.97f19f39.chunk.js",
+    "static/js/2.97f19f39.chunk.js.map": "/hw23-Redux/static/js/2.97f19f39.chunk.js.map",
+    "static/js/3.7933d32a.chunk.js": "/hw23-Redux/static/js/3.7933d32a.chunk.js",
+    "static/js/3.7933d32a.chunk.js.map": "/hw23-Redux/static/js/3.7933d32a.chunk.js.map",
+    "index.html": "/hw23-Redux/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hw23-Redux/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.97f19f39.chunk.js.LICENSE.txt": "/hw23-Redux/static/js/2.97f19f39.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hw23-Redux/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce78167.js",
+    "static/js/2.97f19f39.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a24617cd.chunk.js"
+  ]
+}
