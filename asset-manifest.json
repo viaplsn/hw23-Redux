@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/hw23-Redux/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/hw23-Redux/static/js/main.a24617cd.chunk.js",
-    "main.js.map": "/hw23-Redux/static/js/main.a24617cd.chunk.js.map",
-    "runtime-main.js": "/hw23-Redux/static/js/runtime-main.0ce78167.js",
-    "runtime-main.js.map": "/hw23-Redux/static/js/runtime-main.0ce78167.js.map",
-    "static/js/2.97f19f39.chunk.js": "/hw23-Redux/static/js/2.97f19f39.chunk.js",
-    "static/js/2.97f19f39.chunk.js.map": "/hw23-Redux/static/js/2.97f19f39.chunk.js.map",
-    "static/js/3.7933d32a.chunk.js": "/hw23-Redux/static/js/3.7933d32a.chunk.js",
-    "static/js/3.7933d32a.chunk.js.map": "/hw23-Redux/static/js/3.7933d32a.chunk.js.map",
+    "main.css": "/hw23-Redux/static/css/main.86c884f4.chunk.css",
+    "main.js": "/hw23-Redux/static/js/main.f1c2c095.chunk.js",
+    "main.js.map": "/hw23-Redux/static/js/main.f1c2c095.chunk.js.map",
+    "runtime-main.js": "/hw23-Redux/static/js/runtime-main.5af36de1.js",
+    "runtime-main.js.map": "/hw23-Redux/static/js/runtime-main.5af36de1.js.map",
+    "static/js/2.4f99e27b.chunk.js": "/hw23-Redux/static/js/2.4f99e27b.chunk.js",
+    "static/js/2.4f99e27b.chunk.js.map": "/hw23-Redux/static/js/2.4f99e27b.chunk.js.map",
+    "static/js/3.7aa8f828.chunk.js": "/hw23-Redux/static/js/3.7aa8f828.chunk.js",
+    "static/js/3.7aa8f828.chunk.js.map": "/hw23-Redux/static/js/3.7aa8f828.chunk.js.map",
     "index.html": "/hw23-Redux/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/hw23-Redux/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.97f19f39.chunk.js.LICENSE.txt": "/hw23-Redux/static/js/2.97f19f39.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hw23-Redux/static/media/logo.6ce24c58.svg"
+    "static/css/main.86c884f4.chunk.css.map": "/hw23-Redux/static/css/main.86c884f4.chunk.css.map",
+    "static/js/2.4f99e27b.chunk.js.LICENSE.txt": "/hw23-Redux/static/js/2.4f99e27b.chunk.js.LICENSE.txt",
+    "static/media/CoreyTaylor.c38052e9.png": "/hw23-Redux/static/media/CoreyTaylor.c38052e9.png",
+    "static/media/DeryckWhibley.49a87671.jpg": "/hw23-Redux/static/media/DeryckWhibley.49a87671.jpg",
+    "static/media/GerardWay.fb73b2fe.jpg": "/hw23-Redux/static/media/GerardWay.fb73b2fe.jpg",
+    "static/media/MarkHoppus.9d006304.jpg": "/hw23-Redux/static/media/MarkHoppus.9d006304.jpg",
+    "static/media/NoizeMC.15c55bda.jpg": "/hw23-Redux/static/media/NoizeMC.15c55bda.jpg",
+    "static/media/SerjTankian.22afa9d5.jpg": "/hw23-Redux/static/media/SerjTankian.22afa9d5.jpg",
+    "static/media/comment.24bbea43.svg": "/hw23-Redux/static/media/comment.24bbea43.svg",
+    "static/media/like.f84c301f.svg": "/hw23-Redux/static/media/like.f84c301f.svg",
+    "static/media/navigate-arrow.18779c7f.svg": "/hw23-Redux/static/media/navigate-arrow.18779c7f.svg",
+    "static/media/repost.928c4ee9.svg": "/hw23-Redux/static/media/repost.928c4ee9.svg",
+    "static/media/share.02ec7a74.svg": "/hw23-Redux/static/media/share.02ec7a74.svg",
+    "static/media/verified-icon.faa111d6.svg": "/hw23-Redux/static/media/verified-icon.faa111d6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ce78167.js",
-    "static/js/2.97f19f39.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a24617cd.chunk.js"
+    "static/js/runtime-main.5af36de1.js",
+    "static/js/2.4f99e27b.chunk.js",
+    "static/css/main.86c884f4.chunk.css",
+    "static/js/main.f1c2c095.chunk.js"
   ]
 }
